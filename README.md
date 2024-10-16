@@ -28,11 +28,3 @@ Where:
 2. Copy and paste the script into the editor.
 3. Adjust the parameters as needed, particularly the area of interest and date range.
 4. Click on the "Run" button to execute the script and visualize the results.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Contact Information
-For questions or feedback, please contact:
-**Name**: Majid Abdalla  
-**Email**: majidmonim@gmail.com  A project for estimating soil loss using the RUSLE model in Google Earth Engine.
